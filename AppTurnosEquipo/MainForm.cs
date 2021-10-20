@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Drawing;
 using System.Windows.Forms;
@@ -29,6 +29,7 @@ namespace AppTurnosEquipo
 		{
 			FlistaTurn listaTurnos = new FlistaTurn();
 			listaTurnos.Show();
+			MessageBox.Show("Coment");
 		}
 		void ToolStripLabel3Click(object sender, EventArgs e)
 		{

@@ -26,3 +26,18 @@ C:\Users\Franc\Documents\SharpDevelop Projects\AppTurnosEquipo\ProyeEquipo\AppTu
 C:\Users\Franc\Documents\SharpDevelop Projects\AppTurnosEquipo\ProyeEquipo\AppTurnosEquipo\obj\Debug\AppTurnosEquipo.csproj.GenerateResource.Cache
 C:\Users\Franc\Documents\SharpDevelop Projects\AppTurnosEquipo\ProyeEquipo\AppTurnosEquipo\obj\Debug\AppTurnosEquipo.exe
 C:\Users\Franc\Documents\SharpDevelop Projects\AppTurnosEquipo\ProyeEquipo\AppTurnosEquipo\obj\Debug\AppTurnosEquipo.pdb
+C:\Users\Seba\Desktop\All\Tecnicatura en Analista en Sistemas Instituto 2\1er Año\Algoritmo-Lautaro Garabaglia\ProyectoTurnoEquipo\AppTurnosEquipo\bin\Debug\AppTurnosEquipo.exe.config
+C:\Users\Seba\Desktop\All\Tecnicatura en Analista en Sistemas Instituto 2\1er Año\Algoritmo-Lautaro Garabaglia\ProyectoTurnoEquipo\AppTurnosEquipo\bin\Debug\AppTurnosEquipo.exe
+C:\Users\Seba\Desktop\All\Tecnicatura en Analista en Sistemas Instituto 2\1er Año\Algoritmo-Lautaro Garabaglia\ProyectoTurnoEquipo\AppTurnosEquipo\bin\Debug\AppTurnosEquipo.pdb
+C:\Users\Seba\Desktop\All\Tecnicatura en Analista en Sistemas Instituto 2\1er Año\Algoritmo-Lautaro Garabaglia\ProyectoTurnoEquipo\AppTurnosEquipo\obj\Debug\AppTurnosEquipo.csproj.AssemblyReference.cache
+C:\Users\Seba\Desktop\All\Tecnicatura en Analista en Sistemas Instituto 2\1er Año\Algoritmo-Lautaro Garabaglia\ProyectoTurnoEquipo\AppTurnosEquipo\obj\Debug\AppTurnosEquipo.FhistoPaci.resources
+C:\Users\Seba\Desktop\All\Tecnicatura en Analista en Sistemas Instituto 2\1er Año\Algoritmo-Lautaro Garabaglia\ProyectoTurnoEquipo\AppTurnosEquipo\obj\Debug\AppTurnosEquipo.FlistaMedicos.resources
+C:\Users\Seba\Desktop\All\Tecnicatura en Analista en Sistemas Instituto 2\1er Año\Algoritmo-Lautaro Garabaglia\ProyectoTurnoEquipo\AppTurnosEquipo\obj\Debug\AppTurnosEquipo.FlistaTurn.resources
+C:\Users\Seba\Desktop\All\Tecnicatura en Analista en Sistemas Instituto 2\1er Año\Algoritmo-Lautaro Garabaglia\ProyectoTurnoEquipo\AppTurnosEquipo\obj\Debug\AppTurnosEquipo.FregMedico.resources
+C:\Users\Seba\Desktop\All\Tecnicatura en Analista en Sistemas Instituto 2\1er Año\Algoritmo-Lautaro Garabaglia\ProyectoTurnoEquipo\AppTurnosEquipo\obj\Debug\AppTurnosEquipo.FregTurn.resources
+C:\Users\Seba\Desktop\All\Tecnicatura en Analista en Sistemas Instituto 2\1er Año\Algoritmo-Lautaro Garabaglia\ProyectoTurnoEquipo\AppTurnosEquipo\obj\Debug\AppTurnosEquipo.FturnDispo.resources
+C:\Users\Seba\Desktop\All\Tecnicatura en Analista en Sistemas Instituto 2\1er Año\Algoritmo-Lautaro Garabaglia\ProyectoTurnoEquipo\AppTurnosEquipo\obj\Debug\AppTurnosEquipo.MainForm.resources
+C:\Users\Seba\Desktop\All\Tecnicatura en Analista en Sistemas Instituto 2\1er Año\Algoritmo-Lautaro Garabaglia\ProyectoTurnoEquipo\AppTurnosEquipo\obj\Debug\AppTurnosEquipo.csproj.GenerateResource.cache
+C:\Users\Seba\Desktop\All\Tecnicatura en Analista en Sistemas Instituto 2\1er Año\Algoritmo-Lautaro Garabaglia\ProyectoTurnoEquipo\AppTurnosEquipo\obj\Debug\AppTurnosEquipo.csproj.CoreCompileInputs.cache
+C:\Users\Seba\Desktop\All\Tecnicatura en Analista en Sistemas Instituto 2\1er Año\Algoritmo-Lautaro Garabaglia\ProyectoTurnoEquipo\AppTurnosEquipo\obj\Debug\AppTurnosEquipo.exe
+C:\Users\Seba\Desktop\All\Tecnicatura en Analista en Sistemas Instituto 2\1er Año\Algoritmo-Lautaro Garabaglia\ProyectoTurnoEquipo\AppTurnosEquipo\obj\Debug\AppTurnosEquipo.pdb
