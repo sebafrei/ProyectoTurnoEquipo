@@ -50,31 +50,51 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FhistoPaci.cs" />
+    <Compile Include="FhistoPaci.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="FhistoPaci.Designer.cs">
       <DependentUpon>FhistoPaci.cs</DependentUpon>
     </Compile>
-    <Compile Include="FlistaMedicos.cs" />
+    <Compile Include="FlistaMedicos.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="FlistaMedicos.Designer.cs">
       <DependentUpon>FlistaMedicos.cs</DependentUpon>
     </Compile>
-    <Compile Include="FlistaTurn.cs" />
+    <Compile Include="FlistaTurn.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="FlistaTurn.Designer.cs">
       <DependentUpon>FlistaTurn.cs</DependentUpon>
     </Compile>
-    <Compile Include="FregMedico.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FregMedico.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="FregMedico.Designer.cs">
       <DependentUpon>FregMedico.cs</DependentUpon>
     </Compile>
-    <Compile Include="FregTurn.cs" />
+    <Compile Include="FregTurn.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="FregTurn.Designer.cs">
       <DependentUpon>FregTurn.cs</DependentUpon>
     </Compile>
-    <Compile Include="FturnDispo.cs" />
+    <Compile Include="FturnDispo.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="FturnDispo.Designer.cs">
       <DependentUpon>FturnDispo.cs</DependentUpon>
     </Compile>
-    <Compile Include="MainForm.cs" />
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="MainForm.Designer.cs">
       <DependentUpon>MainForm.cs</DependentUpon>
     </Compile>
