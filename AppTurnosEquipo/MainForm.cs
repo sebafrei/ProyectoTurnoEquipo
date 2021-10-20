@@ -30,6 +30,7 @@ namespace AppTurnosEquipo
 			FlistaTurn listaTurnos = new FlistaTurn();
 			listaTurnos.Show();
 			MessageBox.Show("Coment");
+			//"Otro coment prueba 2"
 		}
 		void ToolStripLabel3Click(object sender, EventArgs e)
 		{
